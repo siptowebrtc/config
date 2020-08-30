@@ -1,5 +1,5 @@
 devices:
-  labgear1:
+  labgear2:
     connections:
       cli:
         ip: 172.16.3.54
