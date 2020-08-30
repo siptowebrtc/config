@@ -1,0 +1,14 @@
+devices:
+  labgear1:
+    connections:
+      cli:
+        ip: 172.16.3.54
+        protocol: telnet
+    credentials:
+      default:
+        password: cisco
+        username: cisco
+      enable:
+        password: cisco
+    os: iosxe
+    type: iosxe
